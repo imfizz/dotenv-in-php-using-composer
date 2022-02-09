@@ -1,0 +1,12 @@
+{
+  "name": "payroll/jdtv",
+  "require": {
+    "vlucas/phpdotenv": "^5.4"
+  },
+  "authors": [
+    {
+      "name": "Ilacad, Francis Albert",
+      "email": "filacad22@gmail.com"
+    }
+  ]
+}
